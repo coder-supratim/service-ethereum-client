@@ -1,0 +1,11 @@
+com\app\ace\app\AccessibilityCoinExchangeApplication.class
+com\app\ace\controller\AceController.class
+com\app\ace\model\Award.class
+com\app\ace\model\Wallet.class
+com\app\ace\model\Account.class
+com\app\ace\dao\DataConnector.class
+com\app\ace\service\AccountService.class
+com\app\ace\service\impl\AccountResponse.class
+com\app\ace\config\AccountServiceConfig.class
+com\app\ace\service\impl\AccountServiceImpl.class
+com\app\ace\model\Transaction.class
