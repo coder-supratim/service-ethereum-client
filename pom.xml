@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ace.app</groupId>
-	<artifactId>service-accessibility-currency</artifactId>
+	<artifactId>service-ethereum-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>service-accessibility-currency</name>
-	<description>Microservice project for DB Accessibility Hackathon</description>
+	<name>service-ethereum-client</name>
+	<description>Microservice project for Ethereum client</description>
 
 	<properties>
 		<java.version>1.8</java.version>
