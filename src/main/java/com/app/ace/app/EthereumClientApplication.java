@@ -9,11 +9,11 @@ import java.io.IOException;
 
 @Slf4j
 @SpringBootApplication(scanBasePackages = {"com.app.ace"})
-public class AccessibilityCoinExchangeApplication {
+public class EthereumClientApplication {
 
 	public static void main(String[] args) throws IOException {
-		SpringApplication.run(AccessibilityCoinExchangeApplication.class, args);
-		log.info(FigletFont.convertOneLine("Service Accessibility Currency"));
+		SpringApplication.run(EthereumClientApplication.class, args);
+		log.info(FigletFont.convertOneLine("Service Ethereum Client"));
 
 	}
 
